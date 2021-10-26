@@ -141,6 +141,7 @@ header {
 
 .book button {
   padding: 10px;
+  outline: none;
 }
 
 .book-button {
@@ -325,6 +326,7 @@ button {
   box-shadow: 0px 0px 0px transparent;
   border: 0px solid transparent;
   text-shadow: 0px 0px 0px transparent;
+  outline: none;
 }
 
 button:hover {
@@ -332,6 +334,10 @@ button:hover {
   box-shadow: 0px 0px 0px transparent;
   border: 0px solid transparent;
   text-shadow: 0px 0px 0px transparent;
+}
+button:hover,
+button:focus {
+  outline: none;
 }
 
 button:active {
