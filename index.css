@@ -130,7 +130,7 @@ header {
 
 .book {
   position: absolute;
-  bottom: 250px;
+  top: 500px;
   left: 0;
   right: 0;
   margin-left: auto;
