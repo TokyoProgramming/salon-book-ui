@@ -139,16 +139,6 @@ header {
   padding: 10px;
 }
 
-.book button {
-  padding: 10px;
-  outline: none;
-}
-
-.book-button {
-  height: 155px;
-  width: 45px;
-}
-
 .background-image {
   display: block;
 }
